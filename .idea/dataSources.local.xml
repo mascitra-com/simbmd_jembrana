@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Jembrana@mascitra.com" uuid="6424d0d5-938f-4ca2-b0fc-76f7f8efb795">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>mascitra_jmbrana</user-name>
+    </data-source>
+  </component>
+</project>
